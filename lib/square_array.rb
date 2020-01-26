@@ -3,6 +3,5 @@ def square_array(array)
 
   while counter < array.length do
     return array[counter]
-    counter += 1
   end
 end
