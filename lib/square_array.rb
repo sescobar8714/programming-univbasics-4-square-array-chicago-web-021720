@@ -1,3 +1,5 @@
 def square_array
-  Math.sqrt(numbers)
+  while numbers > 0 do
+    square_array(numbers)
+  end
 end
