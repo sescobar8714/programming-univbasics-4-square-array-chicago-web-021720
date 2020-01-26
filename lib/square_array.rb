@@ -1,3 +1,3 @@
 def square_array
-  square_array(numbers)
+  Math.sqrt(numbers)
 end
